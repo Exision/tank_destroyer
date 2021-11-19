@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bfe24845ba646c2a95a610d60c741ae, type: 3}
+  m_Name: Weapon_Fast
+  m_EditorClassIdentifier: 
+  Damage: 7
+  RateOfFire: 5
+  BulletSpeed: 150
+  WeaponPrefab: {fileID: 2290470256919809731, guid: dc42a63438f691b4abc1eafdb7f77a28, type: 3}
+  BulletPrefab: {fileID: 7903292432926203452, guid: b9d6711cbd6c8ce4894ad99977b50f89, type: 3}
